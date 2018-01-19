@@ -40,4 +40,6 @@ ul {
 	margin: 0;
 }
 
-
+audio {
+	display: none;
+}
