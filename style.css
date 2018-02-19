@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+body {
+	margin: auto;
+	background-color: #FFFFFF;
+}
+
+.container {
+	font-family: 'Inconsolata', monospace;
+}
+
+img {
+	width: 100%;
+
+}
+
+.row {
+	padding-top: 10%;
+}
+
+* {
+	font-family: 'Inconsolata', monospace;
+	line-height: 1.2em;
+}
+
+.caption {
+	font-style: italic;
+	text-align: right;
+}
+
+.me {
+	font-size: 30px;
+}
+
+.time {
+	color: #8b6466;
+	font-weight: bold;
+}
+
+ul {
+	margin: 0;
+}
+
+audio {
+	display: none;
+}
